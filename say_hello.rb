@@ -1,4 +1,4 @@
 # Build your say_hello method here
-def say_hello(name, gr)
+def say_hello(name = "Ruby Programmer", gr)
   prints gr
 end
